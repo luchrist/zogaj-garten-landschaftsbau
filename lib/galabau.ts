@@ -107,7 +107,7 @@ export const galabau: GalabauConfig = {
     "teamSize": "",
     "machines": ""
   },
-  "claim": "Pflaster, Terrasse und Garten rund um Sinsheim.",
+  "claim": "Zogaj Garten & Landschaftsbau in Sinsheim",
   "heroSubline": "Hofeinfahrten, Wege, Terrassen und komplette Gartenanlagen. Vom Aushub bis zur letzten Fuge, im Umkreis von rund 40 km um Sinsheim.",
   "services": [
     {
@@ -154,7 +154,7 @@ export const galabau: GalabauConfig = {
           "a": "Als Faustwert rund zwei Prozent, weg vom Gebäude. Wo das nicht geht, planen wir Rinnen oder Versickerung ein."
         }
       ],
-      "image": "/assets/leistungen/pflasterarbeiten-terrasse.webp",
+      "image": "/assets/acquisition/baustellen/baustelle-mit-haus-und-pflasterung-01.jpg",
       "estimate": {
         "minPerUnit": 90,
         "maxPerUnit": 210,
@@ -209,7 +209,7 @@ export const galabau: GalabauConfig = {
           "a": "Kleinere Umgestaltungen dauern wenige Tage, komplette Neuanlagen mit Erdarbeiten und Terrasse meist mehrere Wochen. Den Zeitrahmen legen wir vor Baubeginn fest."
         }
       ],
-      "image": "/assets/leistungen/gartenneugestaltung-mit-beleuchtung.webp",
+      "image": "/assets/acquisition/details/gartenweg-mit-trittplatten-und-kies-02.jpg",
       "estimate": {
         "minPerUnit": 120,
         "maxPerUnit": 320,
@@ -264,7 +264,7 @@ export const galabau: GalabauConfig = {
           "a": "Oft ja, mit Stelzlagern. Voraussetzung ist eine ausreichende Aufbauhöhe an der Tür und ein funktionierendes Gefälle."
         }
       ],
-      "image": "/assets/leistungen/terrassenbau-grossformatplatten-01.webp",
+      "image": "/assets/acquisition/baustellen/gartenweg-mit-geometrischem-pflaster-01.jpg",
       "estimate": {
         "minPerUnit": 140,
         "maxPerUnit": 380,
