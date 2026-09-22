@@ -209,7 +209,7 @@ export const galabau: GalabauConfig = {
           "a": "Kleinere Umgestaltungen dauern wenige Tage, komplette Neuanlagen mit Erdarbeiten und Terrasse meist mehrere Wochen. Den Zeitrahmen legen wir vor Baubeginn fest."
         }
       ],
-      "image": "/assets/acquisition/details/gartenweg-mit-trittplatten-und-kies-02.jpg",
+      "image": "/assets/acquisition/projekte/vorgarten-mit-bepflanzung-und-pflaster-01.jpg",
       "estimate": {
         "minPerUnit": 120,
         "maxPerUnit": 320,
@@ -319,7 +319,7 @@ export const galabau: GalabauConfig = {
           "a": "Der Formschnitt erfolgt außerhalb der gesetzlichen Schonzeit. Radikale Rückschnitte sind vom 1. März bis 30. September nicht zulässig."
         }
       ],
-      "image": "/assets/leistungen/gartenpflege-heckenschnitt.webp",
+      "image": "/assets/acquisition/projekte/gartenanlage-mit-rasen-und-hecke-01.jpg",
       "estimate": {
         "minPerUnit": 3,
         "maxPerUnit": 12,
@@ -374,7 +374,7 @@ export const galabau: GalabauConfig = {
           "a": "Bei Sichtschutzwänden und Toren ja. Bei leichten Zäunen genügen oft Einschlaghülsen, das entscheidet der Untergrund."
         }
       ],
-      "image": "/assets/leistungen/zaun-und-sichtschutz.webp",
+      "image": "/assets/acquisition/projekte/garten-mit-gerateschuppen-und-rasen-01.jpg",
       "estimate": {
         "minPerUnit": 90,
         "maxPerUnit": 320,
