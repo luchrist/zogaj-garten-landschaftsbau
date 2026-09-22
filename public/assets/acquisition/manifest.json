@@ -1,0 +1,110 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/baustellen/gartenweg-mit-geometrischem-pflaster-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Gartenweg mit geometrischem Pflaster",
+    "subjectSlug": "gartenweg-mit-geometrischem-pflaster",
+    "description": "Ein neu verlegter Gartenweg mit dunklen Pflastersteinen und einem geometrischen Muster in einem Garten, der noch in Arbeit ist."
+  },
+  {
+    "originalFile": "scraped-02.jpg",
+    "file": "photos/details/gartenweg-mit-trittplatten-und-kies-01.jpg",
+    "category": "detail",
+    "quality": "high",
+    "subject": "Gartenweg mit Trittplatten und Kies",
+    "subjectSlug": "gartenweg-mit-trittplatten-und-kies",
+    "description": "Ein neu angelegter Gartenweg mit großen Trittplatten aus Beton und dunklem Zierkies, eingefasst von Rasen und einer Mauer."
+  },
+  {
+    "originalFile": "api-01.jpg",
+    "file": "photos/baustellen/gartenweg-mit-rautenmuster-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Gartenweg mit Rautenmuster",
+    "subjectSlug": "gartenweg-mit-rautenmuster",
+    "description": "Dieses Foto zeigt einen neu verlegten Gartenweg mit einem markanten Rautenmuster in einem Gartenbereich, der noch in der Gestaltung ist."
+  },
+  {
+    "originalFile": "api-02.jpg",
+    "file": "photos/details/gartenweg-mit-trittplatten-und-kies-02.jpg",
+    "category": "detail",
+    "quality": "high",
+    "subject": "Gartenweg mit Trittplatten und Kies",
+    "subjectSlug": "gartenweg-mit-trittplatten-und-kies",
+    "description": "Ein neu angelegter Gartenweg mit Beton-Trittplatten auf dunklem Kies, umrandet von Rasen und Pflastersteinen, führt entlang einer Hauswand."
+  },
+  {
+    "originalFile": "api-03.jpg",
+    "file": "photos/projekte/gepflasterte-auenanlage-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gepflasterte Außenanlage",
+    "subjectSlug": "gepflasterte-auenanlage",
+    "description": "Eine neu gepflasterte Außenanlage mit einem runden Beet vor einem Wohnhaus unter blauem Himmel."
+  },
+  {
+    "originalFile": "api-04.jpg",
+    "file": "photos/baustellen/stutzmauer-aus-pflanzringen-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Stützmauer aus Pflanzringen",
+    "subjectSlug": "stutzmauer-aus-pflanzringen",
+    "description": "Eine neu errichtete Stützmauer aus Pflanzringen trennt einen Schotterweg von einem unfertigen Hang."
+  },
+  {
+    "originalFile": "api-05.jpg",
+    "file": "photos/baustellen/natursteinmauer-und-gartenweg-im-bau-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Natursteinmauer und Gartenweg im Bau",
+    "subjectSlug": "natursteinmauer-und-gartenweg-im-bau",
+    "description": "Eine Baustelle mit einer mehrstufigen Natursteinmauer, einem unfertigen Gartenweg und einem gepflasterten Bereich neben einem Gebäude."
+  },
+  {
+    "originalFile": "api-06.jpg",
+    "file": "photos/projekte/garten-mit-gerateschuppen-und-rasen-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Garten mit Geräteschuppen und Rasen",
+    "subjectSlug": "garten-mit-gerateschuppen-und-rasen",
+    "description": "Ein gepflegter Garten mit einem modernen Geräteschuppen und einem grünen Rasen, umgeben von einem Zaun und Wohnhäusern."
+  },
+  {
+    "originalFile": "api-07.jpg",
+    "file": "photos/projekte/gepflasterte-flache-im-garten-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gepflasterte Fläche im Garten",
+    "subjectSlug": "gepflasterte-flache-im-garten",
+    "description": "Ein fertiggestellter Gartenbereich mit dunkler Pflasterung und Stützmauern."
+  },
+  {
+    "originalFile": "api-08.jpg",
+    "file": "photos/projekte/vorgarten-mit-bepflanzung-und-pflaster-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Vorgarten mit Bepflanzung und Pflaster",
+    "subjectSlug": "vorgarten-mit-bepflanzung-und-pflaster",
+    "description": "Ein fertiggestellter Vorgarten mit gepflastertem Weg, einer Steinmauer und dekorativen Pflanzen."
+  },
+  {
+    "originalFile": "api-09.jpg",
+    "file": "photos/projekte/gartenanlage-mit-rasen-und-hecke-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gartenanlage mit Rasen und Hecke",
+    "subjectSlug": "gartenanlage-mit-rasen-und-hecke",
+    "description": "Ein gepflegter Garten mit Rasenfläche, Hecke und angrenzenden Häusern unter blauem Himmel."
+  },
+  {
+    "originalFile": "api-10.jpg",
+    "file": "photos/baustellen/baustelle-mit-haus-und-pflasterung-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Baustelle mit Haus und Pflasterung",
+    "subjectSlug": "baustelle-mit-haus-und-pflasterung",
+    "description": "Das Bild zeigt eine Baustelle mit einem Haus, dessen Vorplatz gepflastert wurde, und einem Erdhaufen im Vordergrund."
+  }
+]
